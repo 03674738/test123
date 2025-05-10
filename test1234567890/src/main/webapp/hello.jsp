@@ -4,6 +4,6 @@
 	<title>Hello</title>
 </head>
 <body>
-	<p>테스트
+	<p>Bye
 </body>
 </html>
